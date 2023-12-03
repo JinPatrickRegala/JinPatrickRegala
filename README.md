@@ -1,10 +1,11 @@
 # Hi there! 👋 I'm Jin Patrick Regala
-![Profile Picture](https://scontent-ord5-1.xx.fbcdn.net/v/t1.15752-9/384547563_1009609696957209_6054014795773444345_n.jpg?stp=dst-jpg_p403x403&_nc_cat=111&ccb=1-7&_nc_sid=510075&_nc_ohc=FFuJa3xcuV4AX8Y6718&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent-ord5-1.xx&oh=03_AdRjCChhKgySgVfYuXvWB3XgLSa6Un56vpHq1bAKiSVlQg&oe=6593D08D)
 
 Welcome to my GitHub profile! I'm passionate about coding and database management, and I enjoy tackling complex problems to craft elegant solutions. Currently pursuing my BS in Information Technology at New Era University.
 
 ## Education
 - **BS Information Technology**
+  Precious Learning Institute, 2010-2016
+  Sto Nino Institute of Science And Technology, 2016-2020
   New Era University, 2021-Present
 
 ## Certifications
