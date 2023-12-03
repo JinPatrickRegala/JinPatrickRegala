@@ -3,9 +3,9 @@
 Welcome to my GitHub profile! I'm passionate about coding and database management, and I enjoy tackling complex problems to craft elegant solutions. Currently pursuing my BS in Information Technology at New Era University.
 
 ## Education
+- Precious Learning Institute, 2010-2016
+- Sto Nino Institute of Science And Technology, 2016-2020
 - **BS Information Technology**
-  Precious Learning Institute, 2010-2016
-  Sto Nino Institute of Science And Technology, 2016-2020
   New Era University, 2021-Present
 
 ## Certifications
